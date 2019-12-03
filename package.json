@@ -5,7 +5,7 @@
   "license": "MIT",
   "scripts": {
     "test": "echo 'Testing...'",
-    "build: "echo 'Bulding...'"
+    "build": "echo 'Building...'"
   },
   "keywords": [],
   "author": "",
