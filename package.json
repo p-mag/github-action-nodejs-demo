@@ -1,0 +1,14 @@
+{
+  "name": "github-action-nodejs-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo 'Hello, world!'"
+  },
+  "keywords": [],
+  "author": "",
+  "description": ""
+}
+
+
